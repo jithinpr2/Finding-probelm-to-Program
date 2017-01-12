@@ -7,3 +7,5 @@ people are removed), until only the last person remains, who is given freedom. G
 a number, "skip" which indicates that "skip-1" persons are skipped and the next person is killed in circle. The task is
 to choose the place in the initial circle so that you are the last one remaining and so survive.
 
+For more details : https://en.wikipedia.org/wiki/Josephus_problem
+
